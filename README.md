@@ -10,7 +10,7 @@ Modify the code in HW8.py.  To add this file to the staging area for a commit us
 
 - git add HW8.py
 
-Be sure to do at least 3 commits to earn up to 15 points.  To commit use:
+Be sure to do at least 3 commits to earn full credit.  To commit use:
 
 - git commit -m "message"
 
